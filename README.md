@@ -32,5 +32,5 @@ This project was created as a personal project to practice Java, GUI programming
  1. Clone this repository:
    ```bash
 
-(https://github.com/arnelbangahon19-collab/web_dev/tree/main/FinalProgramming/dist)
+https://github.com/arnelbangahon19-collab/web_dev/tree/main/FinalProgramming/dist
 
