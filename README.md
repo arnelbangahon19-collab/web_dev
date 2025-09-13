@@ -30,7 +30,7 @@ This project was created as a personal project to practice Java, GUI programming
  1. Clone this repository:
  2. Open the project in NetBeans (or any Java IDE).
  3. Run the FinalProgramming.java main class.
-git clone 
+
    ```bash
 https://github.com/arnelbangahon19-collab/web_dev/tree/main/FinalProgramming/dist
 
