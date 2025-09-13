@@ -1,0 +1,4 @@
+OrderNo,DateTime,Customer,Waiter,Table,Type,Item,Price,Total,Payment,Change,Category
+1,2025-09-02 00:57:36,Arnel,Bangs,1,Dine In,Bruschetta x1,120.00,520.00,1000.00,480.00,Appetizer
+1,2025-09-02 00:57:36,Arnel,Bangs,1,Dine In,Chicken Soup x1,250.00,520.00,1000.00,480.00,Soup
+1,2025-09-02 00:57:36,Arnel,Bangs,1,Dine In,Ice Cream x1,150.00,520.00,1000.00,480.00,Dessert
