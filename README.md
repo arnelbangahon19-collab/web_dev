@@ -28,8 +28,9 @@ This project was created as a personal project to practice Java, GUI programming
 
 ### Option 1 — Run from Source (for developers)
 1. Clone this repository:
+git clone
    ```bash
-   git clone [https://github.com/yourusername/pos-order-system.git](https://github.com/arnelbangahon19-collab/web_dev/tree/main/FinalProgramming/dist)
+git clone[https://github.com/arnelbangahon19-collab/web_dev/tree/main/FinalProgramming/dist]
  
- 2. Open the project in NetBeans (or any Java IDE).
- 3. Run the FinalProgramming.java main class.
+ 3. Open the project in NetBeans (or any Java IDE).
+ 4. Run the FinalProgramming.java main class.
