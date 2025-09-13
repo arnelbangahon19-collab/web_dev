@@ -30,3 +30,6 @@ This project was created as a personal project to practice Java, GUI programming
 1. Clone this repository:
    ```bash
    git clone https://github.com/yourusername/pos-order-system.git
+2. Open the project in NetBeans (or any Java IDE).
+
+3. Run the FinalProgramming.java main class.
