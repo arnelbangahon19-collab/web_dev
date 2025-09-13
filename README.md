@@ -27,10 +27,10 @@ This project was created as a personal project to practice Java, GUI programming
  ▶️ How to Run
 
 ### Option 1 — Run from Source (for developers)
-1. Clone this repository:
-
  1. Clone this repository:
    ```bash
 
 https://github.com/arnelbangahon19-collab/web_dev/tree/main/FinalProgramming/dist
+Open the project in NetBeans (or any Java IDE).
 
+Run the FinalProgramming.java main class.
